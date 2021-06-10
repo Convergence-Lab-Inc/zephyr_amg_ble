@@ -1,6 +1,6 @@
 .. _amg88xx_ble:
 
-AMG88XX Infrared Array Sensor
+AMG88XX Infrared Array Sensor with BLE
 #############################
 
 Overview

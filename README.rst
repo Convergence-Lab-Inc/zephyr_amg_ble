@@ -14,6 +14,9 @@ of 27 |deg| Celsius has been reached.
 
 This sample transfer temperature array via BLE.
 
+The eplanation found here (in Japanese)
+https://blog.convergence-lab.com/ja/26-20210610
+
 Requirements
 ************
 
